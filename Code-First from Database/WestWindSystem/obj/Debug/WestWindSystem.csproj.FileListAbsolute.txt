@@ -1,0 +1,12 @@
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\bin\Debug\WestWindSystem.dll.config
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\bin\Debug\WestWindSystem.dll
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\bin\Debug\WestWindSystem.pdb
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\bin\Debug\EntityFramework.dll
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\bin\Debug\EntityFramework.xml
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\obj\Debug\WestWindSystem.csprojAssemblyReference.cache
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\obj\Debug\WestWindSystem.csproj.CoreCompileInputs.cache
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\obj\Debug\WestWindSystem.csproj.CopyComplete
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\obj\Debug\WestWindSystem.dll
+C:\Users\rmarwaha2\Desktop\Code-First from Database\WestWindSystem\obj\Debug\WestWindSystem.pdb
