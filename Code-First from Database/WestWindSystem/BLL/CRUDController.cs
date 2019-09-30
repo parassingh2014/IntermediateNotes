@@ -21,7 +21,16 @@ namespace WestWindSystem.BLL
                 return context.Products.ToList();
             }
         }
-        #endregion
+        [DataObjectMethod(DataObjectMethodType.Insert)]
+        public void AddProduct(Product item)
+        {
+            using(var context = new WestWindContext())
+            {
+                context.Products.Add(item);
+                context.SaveChanges(); 
+            }
+        }
+            #endregion
 
         #region Suppliers CRUD
         [DataObjectMethod(DataObjectMethodType.Select)]
