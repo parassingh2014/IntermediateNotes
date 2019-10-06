@@ -10,42 +10,33 @@
 namespace WebAppCRUD.Admin {
     
     
-    public partial class ViewProducts {
+    public partial class ViewAddresses {
         
         /// <summary>
-        /// ProductGridView control.
+        /// MessageUserControl control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView ProductGridView;
+        protected global::FreeCode.WebApp.UserControls.MessageUserControl MessageUserControl;
         
         /// <summary>
-        /// ProductsDataSource control.
+        /// AddressListView control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ObjectDataSource ProductsDataSource;
+        protected global::System.Web.UI.WebControls.ListView AddressListView;
         
         /// <summary>
-        /// SuppliersDataSource control.
+        /// AddressDataSource control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ObjectDataSource SuppliersDataSource;
-        
-        /// <summary>
-        /// CategoriesDataSource control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ObjectDataSource CategoriesDataSource;
+        protected global::System.Web.UI.WebControls.ObjectDataSource AddressDataSource;
     }
 }
